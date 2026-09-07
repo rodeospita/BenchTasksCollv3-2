@@ -2,4 +2,3 @@
 
 ## Description
 Complete the implementation for asset-optimizer
-
